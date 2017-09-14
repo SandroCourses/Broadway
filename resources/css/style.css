@@ -13,6 +13,8 @@ p {font-size: 14px;}
 
 #banner {background-image: url("../images/the-flatiron-building.png");}
 .menu-item {margin-bottom: 15px;}
+#sub-banner {background-image: url("../images/the-flatiron-building.png");}
+#header-sub-banner {color: white;}
 
 #footer {
   background-color: dimgray;
